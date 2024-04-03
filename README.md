@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @almost1998
 - 👀 I’m interested in web about ui and ue
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning web3D
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
